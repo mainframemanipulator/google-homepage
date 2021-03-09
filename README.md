@@ -1,0 +1,1 @@
+Hi! This is my first project, I'm building a google homepage with a search bar included. My goals for this project are to understand how to structure code properly and get experience in writing and publishing projects using git.
